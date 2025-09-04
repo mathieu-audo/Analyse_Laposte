@@ -1,0 +1,1 @@
+![Aperçu de l'application tkinter](Ihm_classification_image.png)
